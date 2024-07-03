@@ -1,7 +1,5 @@
 # Hi... I'm Aditya Kumar  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-# 👋 Hi there, I'm Aditya Kumar!
-
 Welcome to my GitHub profile! I'm a dedicated and passionate Technical and Business Strategist, currently pursuing a Bachelor of Technology in Computer Science and Engineering at the Indian Institute of Information Technology, Surat. My journey in technology and business has been driven by a deep-seated curiosity and an unwavering commitment to leveraging cutting-edge technologies to create transformative solutions.
 
 ## 🚀 About Me
