@@ -1,22 +1,20 @@
 # Hi... I'm Aditya Kumar  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-Welcome to my GitHub profile! I'm a dedicated and passionate Technical and Business Strategist, currently pursuing a Bachelor of Technology in Computer Science and Engineering at the Indian Institute of Information Technology, Surat. My journey in technology and business has been driven by a deep-seated curiosity and an unwavering commitment to leveraging cutting-edge technologies to create transformative solutions.
+Welcome to my GitHub profile! I'm a dedicated and passionate Technology learner , currently pursuing a Bachelor of Technology in Computer Science and Engineering at the Indian Institute of Information Technology, Surat. My journey in technology and business has been driven by a deep-seated curiosity and an unwavering commitment to leveraging cutting-edge technologies to create transformative solutions.
 
 ## 🚀 About Me
 
 ### Technical Skills
 - **Programming Languages**: C/C++, Python, JavaScript, R
 - **Web Development**: MERN Stack (MongoDB, Express.js, React.js, Node.js)
-- **Data Science**: Data Analytics, Machine Learning, Big Data
+- **Data Science**: Data Analytics, Machine Learning, Big Data, Looker
 - **Emerging Technologies**: Web 3.0, Blockchain, Generative AI, Metaverse (AR/VR)
 - **Cloud Technologies**: Google Cloud, IBM Cloud, AWS (learning)
 - **UI/UX Design**: Adobe XD, Figma
-- **Video Editing and Production**: DaVinci Resolve, Adobe Premiere Pro, After Effects, CapCut
-- **Photography and Design**: Adobe Photoshop, Adobe Lightroom, DSLR and mirrorless camera operation
-- **Financial and Trading**: Fintech, Cryptocurrency (Technical Analysis), Stock Market Analysis
+- **Financial and Trading**: Fintech, Cryptocurrency, Advance Technical Analysis, Stock Market Analysis
 - **Entrepreneurship and Business Strategy**: Startup Ecosystem, Market Research, Business Development
 Feel free to explore my repositories, and let's connect and collaborate on exciting projects!
-- You can reach me through: </a> <a href="mailto:adityaaddylearn@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="[https://www.linkedin.com/in/aditya-kumar-learner//](https://www.linkedin.com/in/aditya-kumar-learner/)"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
+- You can reach me through: </a> <a href="mailto:adityaaddylearn@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/aditya-kumar-learner"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
