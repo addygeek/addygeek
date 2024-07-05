@@ -19,7 +19,8 @@ Feel free to explore my repositories, and let's connect and collaborate on excit
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
-
+ <br> <br>
+![](https://komarev.com/ghpvc/?username=addygeek&label=PROFILE+VIEWS&color=green)
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
  [![Aditya's github stats](https://bad-apple-github-readme.vercel.app/api?username=addygeek&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
@@ -27,8 +28,6 @@ Feel free to explore my repositories, and let's connect and collaborate on excit
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=addygeek&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 [![Aditya's current streak](https://streak-stats.demolab.com/?user=addygeek&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
-
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Major Projects 
 
