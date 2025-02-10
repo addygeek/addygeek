@@ -16,6 +16,25 @@ I strongly believe in **continuous learning, open-source collaboration, and inno
 🔹 **GitHub Contributor** – **Everyday continuous maitianing coding streak**, making new projects everyday and pushing daily contributions.
 
 ---
+## 🚀 GitHub Stats  
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="#"><img src="https://bad-apple-github-readme.vercel.app/api?username=addygeek&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt="Aditya's GitHub Stats" width="400px"/></a>
+    </td>
+    <td>
+      <a href="#"><img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=addygeek&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="Top Languages" width="400px"/></a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="#"><img src="https://streak-stats.demolab.com/?user=addygeek&count_private=true&theme=blue-green&title_color=00b3ff" alt="GitHub Streak"/></a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=addygeek&label=PROFILE+VIEWS&color=green" alt="Profile Views" />
+</p>
  
 ## 🛠️ **Languages & Tools**
 <p align="left">
@@ -51,25 +70,7 @@ I strongly believe in **continuous learning, open-source collaboration, and inno
 </p>
 
 
-## 🚀 GitHub Stats  
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="#"><img src="https://bad-apple-github-readme.vercel.app/api?username=addygeek&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt="Aditya's GitHub Stats" width="400px"/></a>
-    </td>
-    <td>
-      <a href="#"><img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=addygeek&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="Top Languages" width="400px"/></a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="#"><img src="https://streak-stats.demolab.com/?user=addygeek&count_private=true&theme=blue-green&title_color=00b3ff" alt="GitHub Streak"/></a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=addygeek&label=PROFILE+VIEWS&color=green" alt="Profile Views" />
-</p>
 
 
 ---
