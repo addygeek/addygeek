@@ -8,59 +8,6 @@ I strongly believe in **continuous learning, open-source collaboration, and inno
 
 # 🚀 About Me  
 
-## 🛠️ Technical Skills  
-
-### 💻 Programming & Scripting  
-`Python` | `C/C++` | `JavaScript` | `R` | `SQL` | `MATLAB` | `Shell Scripting`  
-
-### 📊 Data Science & Machine Learning  
-`Pandas` | `NumPy` | `SciPy` | `Scikit-Learn` | `XGBoost` | `LightGBM` | `TensorFlow` | `PyTorch` | `Keras`  
-
-### 🤖 Deep Learning & AI  
-`CNN` | `RNN` | `LSTMs` | `Transformers (BERT, GPT)` | `GANs` | `Autoencoders`  
-
-### 🗣️ Natural Language Processing (NLP)  
-`Hugging Face Transformers` | `NLTK` | `SpaCy` | `LangChain` | `OpenAI APIs`  
-
-### 🖼️ Computer Vision  
-`OpenCV` | `YOLO` | `Detectron2` | `Object Detection` | `Semantic Segmentation`  
-
-### 🌎 Full Stack Development  
-`MERN Stack (MongoDB, Express.js, React.js, Node.js)` | `Next.js` | `TailwindCSS` | `Django`  
-
-### ☁️ Cloud & MLOps  
-`Google Cloud AI` | `AWS` | `Azure` | `Docker` | `Kubernetes` | `FastAPI` | `Streamlit`  
-
-### 📈 Financial & Trading  
-`Fintech` | `Cryptocurrency` | `Advanced Technical Analysis` | `Stock Market Analysis`  
-
-### 🚀 Entrepreneurship & Business Strategy  
-`Startup Ecosystem` | `Market Research` | `Business Development`  
-
----
-
-
----
-## 🚀 GitHub Stats  
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="#"><img src="https://bad-apple-github-readme.vercel.app/api?username=addygeek&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt="Aditya's GitHub Stats" width="400px"/></a>
-    </td>
-    <td>
-      <a href="#"><img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=addygeek&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="Top Languages" width="400px"/></a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="#"><img src="https://streak-stats.demolab.com/?user=addygeek&count_private=true&theme=blue-green&title_color=00b3ff" alt="GitHub Streak"/></a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=addygeek&label=PROFILE+VIEWS&color=green" alt="Profile Views" />
-</p>
- 
 ## 🛠️ **Languages & Tools**
 <p align="left">
 
@@ -93,6 +40,59 @@ I strongly believe in **continuous learning, open-source collaboration, and inno
 
 
 </p>
+
+
+---
+## 🚀 GitHub Stats  
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="#"><img src="https://bad-apple-github-readme.vercel.app/api?username=addygeek&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt="Aditya's GitHub Stats" width="400px"/></a>
+    </td>
+    <td>
+      <a href="#"><img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=addygeek&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="Top Languages" width="400px"/></a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="#"><img src="https://streak-stats.demolab.com/?user=addygeek&count_private=true&theme=blue-green&title_color=00b3ff" alt="GitHub Streak"/></a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=addygeek&label=PROFILE+VIEWS&color=green" alt="Profile Views" />
+</p>
+ 
+
+## 🛠️ Technical Skills  
+
+### 💻 Programming & Scripting  
+`Python` | `C/C++` | `JavaScript` | `R` | `SQL` | `MATLAB` | `Shell Scripting`  
+
+### 📊 Data Science & Machine Learning  
+`Pandas` | `NumPy` | `SciPy` | `Scikit-Learn` | `XGBoost` | `LightGBM` | `TensorFlow` | `PyTorch` | `Keras`  
+
+### 🤖 Deep Learning & AI  
+`CNN` | `RNN` | `LSTMs` | `Transformers (BERT, GPT)` | `GANs` | `Autoencoders`  
+
+### 🗣️ Natural Language Processing (NLP)  
+`Hugging Face Transformers` | `NLTK` | `SpaCy` | `LangChain` | `OpenAI APIs`  
+
+### 🖼️ Computer Vision  
+`OpenCV` | `YOLO` | `Detectron2` | `Object Detection` | `Semantic Segmentation`  
+
+### 🌎 Full Stack Development  
+`MERN Stack (MongoDB, Express.js, React.js, Node.js)` | `Next.js` | `TailwindCSS` | `Django`  
+
+### ☁️ Cloud & MLOps  
+`Google Cloud AI` | `AWS` | `Azure` | `Docker` | `Kubernetes` | `FastAPI` | `Streamlit`  
+
+### 📈 Financial & Trading  
+`Fintech` | `Cryptocurrency` | `Advanced Technical Analysis` | `Stock Market Analysis`  
+
+### 🚀 Entrepreneurship & Business Strategy  
+`Startup Ecosystem` | `Market Research` | `Business Development`  
+
 
 ### 📬 Let's Connect  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaaddylearn@gmail.com)  
