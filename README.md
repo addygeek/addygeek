@@ -28,7 +28,7 @@ Feel free to explore my repositories, and let's connect and collaborate on excit
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=addygeek&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 [![Aditya's current streak](https://streak-stats.demolab.com/?user=addygeek&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
+ <a href="https://github.com/addygeek/github-readme-streak-stats">
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Major Projects 
 
 1. **[Python Software Developer](https://github.com/addygeek/MACHINE-LEARNING-MODELS)**
