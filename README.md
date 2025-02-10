@@ -6,73 +6,17 @@ I strongly believe in **continuous learning, open-source collaboration, and inno
 
 ---
 
-## 🚀 About Me  
-I am a **tech enthusiast, problem solver, and community leader**, passionate about leveraging **AI, Machine Learning, and Full Stack Development** to build impactful solutions. My journey at **IIIT Surat** has been a blend of **technical innovation, leadership, and community-driven growth**.
-
+# 🚀 About Me  
 
 ## 🌟 **Leadership & Community Roles**
-🔹 **Google Developer Groups Lead** | IIIT Surat – Organized tech meetups, hackathons, and workshops.  
-🔹 **Research Head** | E-Cell Ruminate, IIIT Surat – Led research-driven projects and innovation strategies.  
-🔹 **Cineworks Lead** | IIIT Surat – Managed creative media and storytelling projects using tech.  
+🔹 **Google Developer Groups Lead** | IIIT Surat – Organize tech meetups, hackathons, and workshops and promote coding culture in college.  
+🔹 **Research Head** at E-Cell Ruminate, IIIT Surat – Led research-driven projects and innovation strategies.  
 🔹 **Hackathon Enthusiast** – Participated in **multiple hackathons**, including **SIH, Amazon ML Hackathon, Spark-a-thon** and more.  
 🔹 **Organizer: 1-Month Cloud Computing Bootcamp** – Hosted **150+ participants**, covering **Google Cloud, DevOps, and AI**.  
-🔹 **GitHub Contributor** – **130+ days of continuous coding streak**, pushing daily contributions.
+🔹 **GitHub Contributor** – **Everyday continuous maitianing coding streak**, making new projects everyday and pushing daily contributions.
 
 ---
-
-## 🛠️ Technical Skills
-
-### 💻 Programming & Scripting  
-`Python` | `C/C++` | `JavaScript` | `R` | `SQL` | `MATLAB` | `Shell Scripting`
-
-### 📊 Data Science & Machine Learning  
-`Pandas` | `NumPy` | `SciPy` | `Scikit-Learn` | `XGBoost` | `LightGBM` | `TensorFlow` | `PyTorch` | `Keras`
-
-### 🤖 Deep Learning & AI  
-`CNN` | `RNN` | `LSTMs` | `Transformers (BERT, GPT)` | `GANs` | `Autoencoders`
-
-### 🗣️ Natural Language Processing (NLP)  
-`Hugging Face Transformers` | `NLTK` | `SpaCy` | `LangChain` | `OpenAI APIs`
-
-### 🖼️ Computer Vision  
-`OpenCV` | `YOLO` | `Detectron2` | `Object Detection` | `Semantic Segmentation`
-
-### 🌎 Full Stack Development  
-`MERN Stack (MongoDB, Express.js, React.js, Node.js)` | `Next.js` | `TailwindCSS` | `Django`
-
-### ☁️ Cloud & MLOps  
-`Google Cloud AI` | `AWS` | `Azure` | `Docker` | `Kubernetes` | `FastAPI` | `Streamlit`
-- **Financial and Trading**: Fintech, Cryptocurrency, Advance Technical Analysis, Stock Market Analysis
-- **Entrepreneurship and Business Strategy**: Startup Ecosystem, Market Research, Business Development
-Feel free to explore my repositories, and let's connect and collaborate on exciting projects!
-- You can reach me through: </a> <a href="mailto:adityaaddylearn@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/aditya-kumar-learner"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
-
----
-
-
  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=addygeek&label=PROFILE+VIEWS&color=green" alt="Profile Views" />
-</p>
-
-## 🚀 GitHub Stats  
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="#"><img src="https://bad-apple-github-readme.vercel.app/api?username=addygeek&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt="Aditya's GitHub Stats" width="400px"/></a>
-    </td>
-    <td>
-      <a href="#"><img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=addygeek&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="Top Languages" width="400px"/></a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="#"><img src="https://streak-stats.demolab.com/?user=addygeek&count_private=true&theme=blue-green&title_color=00b3ff" alt="GitHub Streak"/></a>
-</p>
-
-
 ## 🛠️ **Languages & Tools**
 <p align="left">
 
@@ -105,6 +49,59 @@ Feel free to explore my repositories, and let's connect and collaborate on excit
 
 
 </p>
+
+
+## 🚀 GitHub Stats  
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="#"><img src="https://bad-apple-github-readme.vercel.app/api?username=addygeek&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt="Aditya's GitHub Stats" width="400px"/></a>
+    </td>
+    <td>
+      <a href="#"><img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=addygeek&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="Top Languages" width="400px"/></a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="#"><img src="https://streak-stats.demolab.com/?user=addygeek&count_private=true&theme=blue-green&title_color=00b3ff" alt="GitHub Streak"/></a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=addygeek&label=PROFILE+VIEWS&color=green" alt="Profile Views" />
+</p>
+
+
+---
+
+
+
+## 🛠️ Technical Skills
+
+### 💻 Programming & Scripting  
+`Python` | `C/C++` | `JavaScript` | `R` | `SQL` | `MATLAB` | `Shell Scripting`
+
+### 📊 Data Science & Machine Learning  
+`Pandas` | `NumPy` | `SciPy` | `Scikit-Learn` | `XGBoost` | `LightGBM` | `TensorFlow` | `PyTorch` | `Keras`
+
+### 🤖 Deep Learning & AI  
+`CNN` | `RNN` | `LSTMs` | `Transformers (BERT, GPT)` | `GANs` | `Autoencoders`
+
+### 🗣️ Natural Language Processing (NLP)  
+`Hugging Face Transformers` | `NLTK` | `SpaCy` | `LangChain` | `OpenAI APIs`
+
+### 🖼️ Computer Vision  
+`OpenCV` | `YOLO` | `Detectron2` | `Object Detection` | `Semantic Segmentation`
+
+### 🌎 Full Stack Development  
+`MERN Stack (MongoDB, Express.js, React.js, Node.js)` | `Next.js` | `TailwindCSS` | `Django`
+
+### ☁️ Cloud & MLOps  
+`Google Cloud AI` | `AWS` | `Azure` | `Docker` | `Kubernetes` | `FastAPI` | `Streamlit`
+- **Financial and Trading**: Fintech, Cryptocurrency, Advance Technical Analysis, Stock Market Analysis
+- **Entrepreneurship and Business Strategy**: Startup Ecosystem, Market Research, Business Development
+Feel free to explore my repositories, and let's connect and collaborate on exciting projects!
+- You can reach me through: </a> <a href="mailto:adityaaddylearn@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/aditya-kumar-learner"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
 
  
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Major Projects 
