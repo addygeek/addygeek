@@ -59,10 +59,15 @@ I strongly believe in **continuous learning, open-source collaboration, and inno
 <p align="center">
   <a href="#"><img src="https://streak-stats.demolab.com/?user=addygeek&count_private=true&theme=blue-green&title_color=00b3ff" alt="GitHub Streak"/></a>
 </p>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=addygeek&theme=github_dark" width=750 alt="stats graph"/>
+</div>
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=addygeek&label=PROFILE+VIEWS&color=green" alt="Profile Views" />
 </p>
- 
 
 ## 🛠️ Technical Skills  
 
