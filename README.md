@@ -121,10 +121,7 @@ I build **real-world AI systems at scale** — from **multi-agent AI workflows**
     </td>
   </tr>
 </table>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=addygeek&theme=dark&border_radius=50&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=addygeek&count_private=true&theme=blue-green&title_color=00b3ff"/>
-</p> -->
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=addygeek&theme=dark&border_radius=50&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=addygeek&theme=github_dark" width=750/>
