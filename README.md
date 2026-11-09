@@ -109,27 +109,48 @@ I build **real-world AI systems at scale** — from **multi-agent AI workflows**
 
 ---
 
-## 🚀 GitHub Stats  
+
+<div align="center">
+
+## 🚀 GitHub Stats
 
 <table align="center">
   <tr>
-    <td>
-      <img src="https://bad-apple-github-readme.vercel.app/api?username=addygeek&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" width="400px"/>
+    <td align="center">
+      <img src="https://bad-apple-github-readme.vercel.app/api?username=addygeek&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" width="400" />
     </td>
-    <td>
-      <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=addygeek&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" width="400px"/>
+    <td align="center">
+      <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=addygeek&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" width="400" />
     </td>
   </tr>
 </table>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=addygeek&theme=dark&border_radius=50&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=addygeek&theme=github_dark" width=750/>
+<br/>
+
+<a href="https://git.io/streak-stats">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=addygeek&theme=dark&border_radius=50&date_format=M%20j%5B%2C%20Y%5D"
+    alt="GitHub Streak"
+    width="800"
+  />
+</a>
+
+<br/><br/>
+
+<img
+  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=addygeek&theme=github_dark"
+  width="800"
+  alt="GitHub Profile Summary"
+/>
+
+<br/><br/>
+
+<img
+  src="https://komarev.com/ghpvc/?username=addygeek&label=PROFILE+VIEWS&color=green"
+  alt="Profile Views"
+/>
+
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=addygeek&label=PROFILE+VIEWS&color=green"/>
-</p>
 
 ---
 
